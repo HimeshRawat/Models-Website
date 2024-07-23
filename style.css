@@ -1,3 +1,20 @@
+@font-face {
+  font-family: "monument";
+  src: url(./fonts/MonumentExtended-Regular.otf);
+}
+@font-face {
+  font-family: "monument";
+  src: url(./fonts/MonumentExtended-Ultrabold.otf);
+}
+@font-face {
+  font-family: "gilroy";
+  src: url(./fonts/Gilroy-ExtraBold.otf);
+}
+@font-face {
+  font-family: "gilroy";
+  src: url(./fonts/Gilroy-Light.otf);
+}
+
 * {
   margin: 0;
   padding: 0;
