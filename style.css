@@ -837,16 +837,20 @@ body {
     /* font-style: italic; */
     letter-spacing: 0.256vw;
     line-height: 2.6vh;
+    margin-top: 12vw;
   }
   #part2 #texting p {
     font-size: 1.99vw;
     font-weight: bolder;
     letter-spacing: 0.156vw;
     line-height: 2.5vh;
+    margin-top: 12vw;
   }
   #page3 {
     height: 100%;
     width: 100%;
+    margin-top: 11vw;
+    background-color: #1111cc;
     /* background-color: #1111cc;   */
     /* display: flex;
     justify-content: space-evenly;
@@ -870,7 +874,7 @@ body {
     /* font-style: italic; */
     /* letter-spacing: 0.156vw; */
     line-height: 3.2vh;
-    margin-top: 1.4vw;
+    margin-top: 6.4vw;
   }
   #page3 #right-img {
     height: 60%;
@@ -879,7 +883,7 @@ body {
     /* background: url(https://images.unsplash.com/photo-1711894904251-78b075a124f4?q=80&w=1986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;
     background-position: center; */
-    margin-top: 4vw;
+    margin-top: 19vw;
   }
   #page4 {
     height: 80%;
@@ -1002,13 +1006,13 @@ body {
   #part-2 #text h3 {
     font-size: 2.9vw;
     font-weight: bolder;
-
+    margin-top: 12vw;
     line-height: 1.6vh;
   }
   #part-2 #text p {
     font-size: 1.9vw;
     font-weight: bolder;
-
+    margin-top: 12vw;
     line-height: 1.87vh;
   }
   #footer {
@@ -1072,8 +1076,9 @@ body {
   }
 
   #footer-bottom {
-    height: 31vh;
+    height: 34vh;
     /* width: 100%; */
+    /* background-color: #1111cc; */
     /* background-color: lightpink; */
     margin-top: 14.883vw;
     border-top: 2px solid #000;
@@ -1108,18 +1113,18 @@ body {
     height: 27%;
     width: 100%;
     /* background-color: greenyellow; */
-    right: 0%;
-    bottom: 12%;
+    right: 2%;
+    bottom: 16%;
     border-top: 2px solid #000;
-    padding: 4vw 23.8vw;
+    padding: 4vw 15.8vw;
   }
   #icons-box img {
-    height: 4.23vh;
+    height: 5vh;
   }
   #icons-box h3 {
-    font-size: 4vw;
+    font-size: 5.4vw;
     font-weight: bolder;
     /* font-style: italic; */
-    margin-top: 1.6vw;
+    margin-top: 4.6vw;
   }
 }
